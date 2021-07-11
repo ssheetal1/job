@@ -1,0 +1,16 @@
+.data {
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid #242424;
+  padding: 20px;
+}
+
+.button {
+    display: block;
+    width: 100%;
+}
